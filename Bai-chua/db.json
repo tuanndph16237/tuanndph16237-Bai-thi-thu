@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "Name": "Iphone",
+      "Categories": "Dien thoai",
+      "Description": "Iphone Gia re",
+      "Images": "https://res.cloudinary.com/dv3vzmogk/image/upload/v1666142438/anhhtus/%C4%90%E1%BB%81%20thi/3_225_c6ncpa.jpg",
+      "Sale price": "300000",
+      "Regular price": "550000",
+      "Rating": "5.0",
+      "id": "1"
+    },
+    {
+      "Name": "Iphone",
+      "Categories": "Dien thoai",
+      "Description": "Iphone Gia re",
+      "Images": "https://res.cloudinary.com/dv3vzmogk/image/upload/v1666142438/anhhtus/%C4%90%E1%BB%81%20thi/3_225_c6ncpa.jpg",
+      "Sale price": "300000",
+      "Regular price": "550000",
+      "Rating": "5.0",
+      "id": "2"
+    },
+    {
+      "Name": "Iphone",
+      "Categories": "Dien thoai",
+      "Description": "Iphone Gia re",
+      "Images": "https://res.cloudinary.com/dv3vzmogk/image/upload/v1666142438/anhhtus/%C4%90%E1%BB%81%20thi/3_225_c6ncpa.jpg",
+      "Sale price": "300000",
+      "Regular price": "550000",
+      "Rating": "5.0",
+      "id": "3"
+    },
+    {
+      "Name": "Iphone",
+      "Categories": "Dien thoai",
+      "Description": "Iphone Gia re",
+      "Images": "https://res.cloudinary.com/dv3vzmogk/image/upload/v1666142438/anhhtus/%C4%90%E1%BB%81%20thi/3_225_c6ncpa.jpg",
+      "Sale price": "300000",
+      "Regular price": "550000",
+      "Rating": "5.0",
+      "id": "4"
+    },
+    {
+      "name": "Iphone",
+      "description": "",
+      "id": "E4rN-gl"
+    }
+  ]
+}
